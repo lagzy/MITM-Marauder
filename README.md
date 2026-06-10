@@ -1,5 +1,5 @@
 # MITM-Marauder
-Scan, Flood, Sniff, Poison networks easily and fast. Have fun :)
+Scan, Flood, Sniff, Poison networks easily and fast. And have fun :)
 <img width="801" height="323" alt="mitm_logo" src="https://github.com/user-attachments/assets/2bf38b83-9fc5-4ae0-9311-efc9c235aba2" />
 
 ## Functions:
@@ -12,6 +12,6 @@ Use setup.bat to downdload requirements.
 ><br>rich=13.0.0
 ><br>Npcap 1.88 ( https://npcap.com/#download )
 
-## Usage
+## Usage:
 Select an option and go through questions app is asking
 
