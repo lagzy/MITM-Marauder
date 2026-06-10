@@ -13,5 +13,5 @@ Use setup.bat to downdload requirements.
 ><br>Npcap 1.88 ( https://npcap.com/#download )
 
 ## Usage:
-Select an option and go through questions app is asking
+Select an option and go through questions app is asking.
 
