@@ -6,7 +6,7 @@ Scan, Flood, Sniff networks easily and fast.
 
 # Installing:
 Use setup.bat to downdload requirements.
-/n Or install:
+#Or install:
   scapy>=2.5.0
   rich>=13.0.0
   Npcap 1.88 ( https://npcap.com/#download )
