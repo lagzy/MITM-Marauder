@@ -24,6 +24,7 @@ echo.
 echo [*] Installing Python dependencies...
 python -m pip install --upgrade pip
 python -m pip install scapy
+python -m pip install rich
 echo.
 
 :: Check Npcap
